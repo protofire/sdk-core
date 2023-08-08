@@ -33,6 +33,7 @@ export const SUPPORTED_CHAINS = [
   ChainId.CELO,
   ChainId.BNB,
   ChainId.AVALANCHE,
+  ChainId.BASE,
   ChainId.BASE_GOERLI,
   ChainId.HARMONY,
 ] as const
