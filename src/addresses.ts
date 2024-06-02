@@ -46,7 +46,8 @@ export const V2_FACTORY_ADDRESSES: AddressMap = {
   [ChainId.BASE]: '0x8909dc15e40173ff4699343b6eb8132c65e18ec6',
   [ChainId.BNB]: '0x8909Dc15e40173Ff4699343b6eB8132c65e18eC6',
   [ChainId.POLYGON]: '0x9e5A52f57b3038F1B8EeE45F28b3C1967e22799C',
-  [ChainId.CELO]: '0x79a530c8e2fA8748B7B40dd3629C0520c2cCf03f'
+  [ChainId.CELO]: '0x79a530c8e2fA8748B7B40dd3629C0520c2cCf03f',
+  [ChainId.ZORA]: '0x0f797dc7efaea995bb916f268d919d0a1950ee3c'
 }
 /**
  * @deprecated use V2_ROUTER_ADDRESSES instead
@@ -61,7 +62,8 @@ export const V2_ROUTER_ADDRESSES: AddressMap = {
   [ChainId.BASE]: '0x4752ba5dbc23f44d87826276bf6fd6b1c372ad24',
   [ChainId.AVALANCHE]: '0x4752ba5dbc23f44d87826276bf6fd6b1c372ad24',
   [ChainId.BNB]: '0x4752ba5dbc23f44d87826276bf6fd6b1c372ad24',
-  [ChainId.POLYGON]: '0xedf6066a2b290c185783862c7f4776a2c8077ad1'
+  [ChainId.POLYGON]: '0xedf6066a2b290c185783862c7f4776a2c8077ad1',
+  [ChainId.ZORA]: '0xa00F34A632630EFd15223B1968358bA4845bEEC7'
 }
 
 // Networks that share most of the same addresses i.e. Mainnet, Goerli, Optimism, Arbitrum, Polygon
